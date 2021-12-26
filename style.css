@@ -36,7 +36,7 @@ body{
 }
 
 .card-body{
-	padding: 60px 128px 60px 60px;
+	padding: 48px 128px 48px 48px;
 	height: 100%;
 	width: 550px;
 }
@@ -57,13 +57,14 @@ body{
 .card-statistic{
 	display: flex;
 	justify-content: space-between;
+	margin-top: 32px;
 }
 
 .card-statistic p{
 	font-family: 'Inter', sans-serif;
-	font-size: 28px;
+	font-size: 26px;
 	font-weight: 700;
-	margin-bottom: 12px;
+	margin-bottom: 0;
 }
 
 .card-statistic span{

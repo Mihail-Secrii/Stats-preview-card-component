@@ -57,7 +57,7 @@ body{
 .card-statistic{
 	display: flex;
 	justify-content: space-between;
-	margin-top: 32px;
+	margin-top: 64px;
 }
 
 .card-statistic p{
